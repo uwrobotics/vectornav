@@ -22,7 +22,7 @@
 #include <sensor_msgs/msg/temperature.hpp>
 #include <sensor_msgs/msg/time_reference.hpp>
 #include <string>
-#include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
+#include <tf2_geometry_msgs/tf2_geometry_msgs.h>
 #include <vectornav_msgs/msg/attitude_group.hpp>
 #include <vectornav_msgs/msg/common_group.hpp>
 #include <vectornav_msgs/msg/gps_group.hpp>
